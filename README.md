@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/akshat/akshat/blob/master/images/stat.svg" alt="Alternative Text"/>
+
 <!--
 **akshattrivedi/akshattrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
