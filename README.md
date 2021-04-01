@@ -18,6 +18,8 @@
 <!-- Wakatime Stats Card: Type 2 -->
 <img src="https://github.com/akshattrivedi/akshattrivedi/blob/master/images/stat.svg" alt="Alternative Text"/>
 
+[website]: https://akshattrivedi.surge.sh/
+[linkedin]: https://www.linkedin.com/in/akshattrivedi7/
 
 <!--
 **akshattrivedi/akshattrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
