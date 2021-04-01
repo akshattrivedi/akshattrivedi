@@ -18,6 +18,13 @@
 <!-- Wakatime Stats Card: Type 2 -->
 <img src="https://github.com/akshattrivedi/akshattrivedi/blob/master/images/stat.svg" alt="Alternative Text"/>
 
+
+### Connect with me:
+
+[<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="akshattrivedi7  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
 [website]: https://akshattrivedi.surge.sh/
 [linkedin]: https://www.linkedin.com/in/akshattrivedi7/
 
