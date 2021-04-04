@@ -15,10 +15,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
 </div>
 
-<!-- Wakatime Stats Card: Type 2 -->
-<img src="https://github.com/akshattrivedi/akshattrivedi/blob/master/images/stat.svg" alt="Alternative Text"/>
-
-
 ### Connect with me:
 
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
