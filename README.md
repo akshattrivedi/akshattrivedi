@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!-- GitHub Stats Card -->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" />
-</div>
+  
+  <!-- GitHub Stats Card -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" />
 
-<!-- GitHub Top Languages Card -->
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" />
-</div>
+  <!-- GitHub Top Languages Card -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" />
 
-<!-- Wakatime Stats Card: Type 1 -->
-<div align="center">
+  <!-- Wakatime Stats Card: Type 1 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
+
 </div>
+
 
 ### Connect with me:
 
