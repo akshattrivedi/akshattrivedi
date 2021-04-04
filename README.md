@@ -12,7 +12,7 @@
 
 <!-- Wakatime Stats Card: Type 1 -->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
 </div>
 
 <!-- Wakatime Stats Card: Type 2 -->
