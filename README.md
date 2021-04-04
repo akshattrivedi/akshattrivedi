@@ -1,20 +1,32 @@
-### Hi there 👋
+## Hi there 👋
+
+<style>
+  .stats {
+    align: left;
+    max-width: 50%;
+    float: left;
+  }
+  .lang {
+    align: right;
+    float : left;
+  }
+</style>
 
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" />
-  &nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" class="stats" />
+  
   <!-- GitHub Top Languages Card -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" class="lang" />
 
   <!-- Wakatime Stats Card: Type 1 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
 
 </div>
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="akshattrivedi7  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
