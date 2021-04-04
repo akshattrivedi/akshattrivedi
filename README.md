@@ -4,7 +4,7 @@
   
   <!-- GitHub Stats Card -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" />
-
+  &nbsp
   <!-- GitHub Top Languages Card -->
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" />
 
