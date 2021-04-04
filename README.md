@@ -1,16 +1,8 @@
 ## Hi there 👋
 
-<style>
-  .stats {
-    align: left;
-    max-width: 50%;
-    float: left;
-  }
-  .lang {
-    align: right;
-    float : left;
-  }
-</style>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
 
 <div align="center">
   
