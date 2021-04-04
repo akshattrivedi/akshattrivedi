@@ -1,8 +1,8 @@
-## Hi there 👋
-
 <head>
 <link rel="stylesheet" href="styles.css">
 </head>
+
+## Hi there 👋
 
 <div align="center">
   
