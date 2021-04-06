@@ -2,12 +2,12 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 
-## Hi there 👋
+## Hi there 👋, This is [Akshat!](https://akshattrivedi.surge.sh/)
 
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&theme=radical" class="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshattrivedi&show_icons=true&include_all_commits=true&theme=radical" class="stats" />
   
   <!-- GitHub Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" class="lang" />
