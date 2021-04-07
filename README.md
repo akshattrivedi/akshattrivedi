@@ -12,8 +12,8 @@
   <!-- GitHub Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" class="lang" />
 
-  <!-- Wakatime Stats Card: Type 1 -->
-  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&v=3" />
+  <!-- Wakatime Stats (Weekly) Card -->
+  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20(Weekly)&v=3" />
 
 </div>
 
