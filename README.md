@@ -20,13 +20,18 @@
 
 
 ## Connect with me:
+[<img align="left" alt="webpage" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="webpage  | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="webpage  | Google Drive Resume" width="30px" src="https://www.excelr.com/assets/fonts/stroke/SVG/Resume.svg" />][linkedin]
 
-[<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="akshattrivedi7  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 
 [website]: https://akshattrivedi.surge.sh/
 [linkedin]: https://www.linkedin.com/in/akshattrivedi7/
+[resume]: https://bit.ly/akshattrivediresume-6
+
+<br />
+
 ![Profile views](https://gpvc.arturio.dev/akshattrivedi)
 
 <!--
