@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshattrivedi&layout=compact&theme=radical" class="lang" />
 
   <!-- Wakatime Stats (Weekly) Card -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20(Weekly)&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshattrivedi&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20&v=3" />
 
 </div>
 
