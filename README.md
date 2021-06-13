@@ -32,7 +32,7 @@
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/akshattrivedi)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakshattrivedi&count_bg=%23212121&title_bg=%239C27B0&icon=garmin.svg&icon_color=%2300C853&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **akshattrivedi/akshattrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
