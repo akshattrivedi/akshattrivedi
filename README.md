@@ -28,7 +28,7 @@
 
 [website]: https://akshattrivedi.surge.sh/
 [linkedin]: https://www.linkedin.com/in/akshattrivedi7/
-[resume]: https://bit.ly/akshattrivediresume-7
+[resume]: https://bit.ly/akshattrivediresume-8
 
 <br />
 
